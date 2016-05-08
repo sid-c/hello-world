@@ -1,2 +1,3 @@
 First File
+New line in the middle
 Second line
